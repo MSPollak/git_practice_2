@@ -8,6 +8,11 @@ function Counter() {
       <button onClick={() => setCounter(counter + 1)}>Incrament</button>
       <span>{counter}</span>
       <button onClick={() => setCounter(counter - 1)}>Decrament</button>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Nostrum repellat deleniti quod numquam sint at quia architecto rerum voluptatum amet?
+        Ea ut excepturi ullam modi tempora architecto consequatur delectus tenetur.
+      </p>
     </div>
   );
 }
