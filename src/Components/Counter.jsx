@@ -14,6 +14,27 @@ function Counter() {
         Nostrum repellat deleniti quod numquam sint at quia architecto rerum voluptatum amet?
         Ea ut excepturi ullam modi tempora architecto consequatur delectus tenetur.
       </p>
+      <button onClick={() => setCounter(counter - 1)}>Decrament</button>
+      <span>{counter}</span>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Nostrum repellat deleniti quod numquam sint at quia architecto rerum voluptatum amet?
+        Ea ut excepturi ullam modi tempora architecto consequatur delectus tenetur.
+      </p>
+      <button onClick={() => setCounter(counter - 1)}>Decrament</button>
+      <span>{counter}</span>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Nostrum repellat deleniti quod numquam sint at quia architecto rerum voluptatum amet?
+        Ea ut excepturi ullam modi tempora architecto consequatur delectus tenetur.
+      </p>
+      <button onClick={() => setCounter(counter - 1)}>Decrament</button>
+      <span>{counter}</span>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Nostrum repellat deleniti quod numquam sint at quia architecto rerum voluptatum amet?
+        Ea ut excepturi ullam modi tempora architecto consequatur delectus tenetur.
+      </p>
     </div>
   );
 }
